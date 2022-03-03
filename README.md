@@ -3,7 +3,7 @@
 I'm a Student, Paramedic, Developer & passionate Hiker & Writer.
 
 - 🌱 I’m currently working on extending my networking knowledge
-- 🥅 My Goal for 2021 : Graduation!
+- 🥅 My Goal for *2022* : Learning about IT infrasructure (and some game development on the site)
 - ⚡ What else there is? I love to play the piano 😄
 
 ### 📕 Blog Posts I am proud of
